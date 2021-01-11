@@ -1,1 +1,3 @@
 rootProject.name = 'yellow-webserver'
+include 'workflows'
+include 'contracts'
